@@ -1,0 +1,12 @@
+PODS:
+  - CocoaSecurity (1.2.4)
+
+DEPENDENCIES:
+  - CocoaSecurity
+
+SPEC CHECKSUMS:
+  CocoaSecurity: d288a6f87e0f363823d2cb83e753814a6944f71a
+
+PODFILE CHECKSUM: 565b2110bad047b22b7b16c7dcbd5f3ef2ac2a53
+
+COCOAPODS: 1.1.1
